@@ -1,6 +1,7 @@
 -e git+https://github.com/StakeEngine/math-sdk.git@0842bb244cb8c15e63af541054710a8082901e2f#egg=stakeengine
 boto3==1.35.97
 botocore==1.35.97
+numpy==2.2.5
 iniconfig==2.1.0
 jmespath==1.0.1
 packaging==25.0
